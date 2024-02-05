@@ -21,8 +21,10 @@ Make sure you have Node.js installed on your system. You can download it from [h
 ## Usage
 
 To generate a QR code, run the script using the following command:
-node index.js
-
+    
+    ```
+    node index.js
+    ```
 
 The generated QR code will be saved as 'qr.png' in the project directory.
 
